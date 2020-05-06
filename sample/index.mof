@@ -1,16 +1,3 @@
-# mofron-event-tap
-[mofron](https://mofron.github.io/mofron/) is module based frontend framework.
-
-tap event for mofron
-
-
-# Install
-```
-npm install mofron mofron-event-tap
-```
-
-# Sample
-```html
 <setting>
     <tag load="mofron-comp-text">Text</tag>
     <tag load="mofron-event-tap">Tap</tag>
@@ -27,12 +14,3 @@ console.log("tap event");
 </script>
 
 <Text size=0.4rem event=Tap:@tap_evt>Tap Event</Text>
-```
-
-# Parameter
-
-| Short<br>Form | Parameter Name | Type | Description |
-|:-------------:|:---------------|:-----|:------------|
-| | taponly | boolean | true: ignore click,mouse event |
-| | | | false: nothing to do |
-

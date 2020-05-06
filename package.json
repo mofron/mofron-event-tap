@@ -1,0 +1,23 @@
+{
+  "name": "mofron-event-tap",
+  "version": "0.0.1",
+  "description": "[mofron](https://mofron.github.io/mofron/) is module based frontend framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofron/mofron-event-tap.git"
+  },
+  "keywords": [
+    "front-end",
+    "mofron"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mofron/mofron-event-tap/issues"
+  },
+  "homepage": "https://github.com/mofron/mofron-event-tap#readme"
+}
